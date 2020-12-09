@@ -1,0 +1,14 @@
+{
+  "name": "books-lib-api",
+  "version": "1.0.0",
+  "description": "Book's library api",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index"
+  },
+  "author": "Oskar Grzelak",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
